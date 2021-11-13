@@ -1,0 +1,20 @@
+.color {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+.button {
+    width:100px;
+    height:30px;
+    border: none;
+    color:white;
+    background-color: green;
+    font-weight: bold;
+    cursor: pointer;
+}
+.rel{
+    width:100px;
+    height : 30px;
+    color:white;
+}
